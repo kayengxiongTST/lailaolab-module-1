@@ -1,0 +1,7 @@
+<template>
+    <footer>
+        <div>
+            <h2>This is Footer</h2>
+        </div>
+    </footer>
+</template>

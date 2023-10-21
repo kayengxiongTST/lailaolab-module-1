@@ -1,0 +1,35 @@
+/* iPhones */
+@media screen and (max-width: 480px) {
+	.custom-container {
+		padding: 0 20px;
+		max-width: 1300px;
+		margin: auto;
+	}
+}
+/* iPhones */
+@media screen and (min-width: 480px) and (max-width: 768px) {
+	.custom-container {
+		padding: 0 20px;
+		max-width: 1300px;
+		margin: auto;
+	}
+}
+/* Small Laptop */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+	.custom-container {
+		padding: 0 24px;
+		max-width: 1300px;
+		margin: auto;
+	}
+}
+/* Big Laptop */
+@media screen and (min-width: 1024px) and (max-width: 1279px) {
+	.custom-container {
+		padding: 0 24px;
+		max-width: 1300px;
+		margin: auto;
+	}
+}
+/* PC */
+@media screen and (min-width: 1280px) {
+}
