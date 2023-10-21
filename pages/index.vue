@@ -1,7 +1,8 @@
 <template>
     <div>
-        <div>
-            <h1></h1>
-        </div>
+        <Header />
+        <FirstSlider />
+        <OrangeSection />
+        <LastSection />
     </div>
 </template>
